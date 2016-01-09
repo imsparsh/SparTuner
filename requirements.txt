@@ -1,0 +1,6 @@
+pyaudio
+numpy
+scipy
+pickle
+ffmpeg
+matplotlib
