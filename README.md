@@ -6,7 +6,7 @@ SparTuner
 **Technologies Used:**
 - python
 
-**Modules**
+**Modules:**
 - **frequencies.py**
 module for building the frequency to note files.
 
